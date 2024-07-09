@@ -1,0 +1,21 @@
+title: "Peng's Bioinformatics Lab"
+description: "Welcome to the website of Pengs's Bioinformatics lab at Indiana University School of Medicine."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://PengBioinformaticsLab.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+# Navigation
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Research"
+    link: "/research"
+  - name: "Publications"
+    link: "/publications"
+  - name: "Team"
+    link: "/team"
+  - name: "Contact"
+    link: "/contact"
