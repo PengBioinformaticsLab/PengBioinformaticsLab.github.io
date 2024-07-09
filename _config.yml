@@ -5,7 +5,7 @@ url: "https://PengBioinformaticsLab.github.io" # the base hostname & protocol fo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 
 # Navigation
 nav:
