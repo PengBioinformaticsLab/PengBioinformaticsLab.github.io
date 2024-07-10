@@ -3,8 +3,11 @@ layout: default
 title: Home
 ---
 
-# Welcome to Peng's Bioinformatics Lab
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Peng Lab</h1>
+  <img src="assets/images/Indiana_Hoosiers_logo.svg" alt="IU Logo" height="60">
+</div>
 
 Welcome to the website of Peng's Bioinformatics lab at Indiana University School of Medicine. Our research focuses on developing Bioinformatics methods and tools to analyze different biological data. 
 
