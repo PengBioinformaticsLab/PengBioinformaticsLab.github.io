@@ -8,7 +8,10 @@
 </head>
 <body>
   <header>
-    <h1>{{ site.title }}</h1>
+    <h1>
+      {{ site.title }}
+      <img src="{{ site.baseurl }}/{{ site.logo_image }}" alt="IU Logo" width="50" height="50" style="vertical-align: middle; float:right;">
+    </h1>
     <nav>
       <ul>
         {% for item in site.nav %}
